@@ -160,7 +160,7 @@ like so:
 | | [3mm Top Hat Panels Clips](./LoCoCNC/3mm_tophat_panel_parts) | Required to use the 3mm (1/8") thick top hat panels for V0.1 |:heavy_check_mark:|:x:|:x:|:x:|
 | | [Strain Relief w/ 10 Pin Microfit](./LoCoCNC/Strain_Relief_w_Microfit) | Strain Relief with 10 pin Microfit connector |:heavy_check_mark:|:x:|:x:|:x:|
 | | [SSR Mounting Strap](./LoCoCNC/ssr_strap) | Mounting Strap for SSR on 1515 Extrusions |:heavy_check_mark:|:x:|:x:|:x:| 
-|Long| [Mantis Dual 5015 Toolhead](./Long/Mantis_Dual_5015) | v2.4 MGN12 Dual 5015 Toolhead  |:x:|:x:|:heavy_check_mark:|:x:|
+|Long| [Mantis Dual 5015 Toolhead](./Long/Mantis_Dual_5015) | MGN12 Dual 5015 Toolhead for 2.4 & 1.8 |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |Majarspeed| [Hartk board mount galileo](./Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | :x: | :x: | :heavy_check_mark: | :x: |
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
@@ -193,6 +193,7 @@ like so:
 |Phalanx |["Other" Idlers Mod](./Phalanx/Other-V2-Idlers/) | Allow usage of wider toolheads on the V2 |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
 | Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | :x: | :heavy_check_mark:| :heavy_check_mark: | :x: | 
+|QuackProfit|[V0 Adafruit NeoPixel LED Mounts](./QuackProfit/V0-Adafruit-Y_Rails) | Mount Adafruit PCB NeoPixel Sticks on the V0 Y-rail extrusions | :heavy_check_mark:|:x:|:x:|:x:|
 |randell   |[Door Hinges](./randell/Door_Hinges) |Door hinges that use an M3 bolt for a pin and bolts thru the panel |:x: |:x: |:heavy_check_mark: |:x:|
 ||[Microswitch Pod for PCB](./randell/Microswitch_Endstop) |Modified endstop pod for use of endstop switches mounted on a PCB |:x: |:x: |:heavy_check_mark: |:x:|
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:|
@@ -213,6 +214,7 @@ like so:
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |:x:|
+| TAKUYA | [WANSVIEW USB Camera Mount](./Takuya/USBCameraMount/) | WANSVIEW 1080p Camera Mount for Voron 2.4 | :x: | :x: | :heavy_check_mark: | :x: |
 | tameike | [Din Rail SKR 90 deg](./tameike/DIN_Rail_SKR_1.3_90deg) | SKR V1.3 bracket turned 90 degrees | :x: | :grey_question: | :heavy_check_mark: |:x:|
 | | [Din Rail 2020 Holder](./tameike/DIN_Rail_2020_holder) | Attaching DIN Rails to 2020 | :x: | :grey_question: | :heavy_check_mark: |:x:|
 | | [TacoRaven Mounting Frame](./tameike/V0_TR_Mounting_Frame) | TR V0 mount | :heavy_check_mark: | :x: | :x: |:x:|
@@ -228,6 +230,7 @@ like so:
 | UltraWaffles | [Ender 3 to SW conversion](./Ultrawaffles/Ender_3_to_SW) | A conversion mod for the ender 3 to switchwire. Designed to allow for enclosure and uses original ender 3 motors and switches| :x: | :x: | :x: | :heavy_check_mark: |
 | warriorofwire | [Slenderfan for Afterburner](./warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | :x: | :x: | :heavy_check_mark: |:x:|
 | Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |:x:|
+| whoppingpochard | [Extrusion Backers](./whoppingpochard/extrusion_backers) | Laser-cut metal pieces to counteract bimetallic frame warping | :x: | :grey_question: | :heavy_check_mark: |:x:|
 | Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 | wrez | [V0 Alternate IEC 320 C14 Power Inlet Housing](./wrez/astrodyne-inlet) | Drop in replacement for alternate-source power inlet if spec inlet is back-ordered | :heavy_check_mark: | :x: | :x: | :x: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
